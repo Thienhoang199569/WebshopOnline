@@ -3,5 +3,5 @@
 - ASP.NET Core 3.1
 - Entity Framwork Core 3.1
 
-#How to Configure and run
+# How to Configure and run
 # how to contribute
